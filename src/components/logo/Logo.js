@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './Logo.css'
 import brain from './brain.png'
 import Tilt from 'react-parallax-tilt'
